@@ -1,2 +1,2 @@
 # Experimental-learning
-satisfactory implementation and conceptual
+satisfactory implementation of concepts gained through varios courses
